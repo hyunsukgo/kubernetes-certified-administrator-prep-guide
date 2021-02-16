@@ -9,6 +9,8 @@ Please, feel free to place a pull request whether something is not up-to-date, s
 # Exam
 
 The exam is kind of "put your hands on", where you have 24 problems to fix within 180 minutes. Based on that, you have ~7.5 minutes per problem, where usually you will spend more time in some problems than others.
+이 시험은 "핸즈온"기반이며, 24가지 문제를 180분(3시간)이내에 해결해야합니다.
+기본적으로, 한 문제 당 7.5분씩 할당 된다고 생각하시면 됩니다. 문제에 따라 시간을 잘 할당한 후 배분 해야합니다.
 
 My tip: Spend your time wisely. Use the Notebook feature (provided in exam's UI) to keep track of your progress, where you might take notes of each question, put some anottations in order to help you. Additionally, don't get stuck, move to the next problem, and take it back when you finish all the other problems.
 
